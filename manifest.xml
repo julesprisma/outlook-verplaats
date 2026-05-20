@@ -27,7 +27,7 @@
     <Form xsi:type="ItemRead">
       <DesktopSettings>
         <!-- VERVANG DIT door jouw GitHub Pages URL -->
-        <SourceLocation DefaultValue="https://JOUW-GEBRUIKERSNAAM.github.io/outlook-verplaats/taskpane.html"/>
+        <SourceLocation DefaultValue="https://julesprisma.github.io/outlook-verplaats/taskpane.html"/>
         <RequestedHeight>450</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -84,14 +84,14 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://JOUW-GEBRUIKERSNAAM.github.io/outlook-verplaats/icon16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://JOUW-GEBRUIKERSNAAM.github.io/outlook-verplaats/icon32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://JOUW-GEBRUIKERSNAAM.github.io/outlook-verplaats/icon80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://julesprisma.github.io/outlook-verplaats/icon16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://julesprisma.github.io/outlook-verplaats/icon32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://julesprisma.github.io/outlook-verplaats/icon80.png"/>
       </bt:Images>
       <bt:Urls>
         <!-- VERVANG DIT door jouw GitHub Pages URL -->
-        <bt:Url id="Commands.Url" DefaultValue="https://JOUW-GEBRUIKERSNAAM.github.io/outlook-verplaats/taskpane.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://JOUW-GEBRUIKERSNAAM.github.io/outlook-verplaats/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://julesprisma.github.io/outlook-verplaats/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://julesprisma.github.io/outlook-verplaats/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="E-mail beheer"/>
